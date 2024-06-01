@@ -1,6 +1,6 @@
 # Cuisine API
 
-The Cuisine API is a RESTful API integrated with a PostgreSQL database using the Vapor framework, catering specifically to cuisine enthusiasts seeking efficient management of a cuisine database. The backend services are meticulously designed to handle various aspects of cuisine management, including recipe details, ingredient lists, and cuisine categories, ensuring optimal data management, recipe organization, ingredient tracking, and user interaction.
+The Cuisine API is a RESTful API integrated with a PostgreSQL database using the Vapor framework, catering specifically to cuisine enthusiasts seeking efficient management of a cuisine database. The backend services are meticulously designed to handle various aspects of cuisine management.
 
 ## APP STATEMENT
 
