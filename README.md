@@ -8,16 +8,9 @@ A RESTful API integrated with PSQL database for recipe management iOS app
 
 ## FEATURE LIST
 
-- Creation Operation [POST]:
-  - Add a new user, dish, or cuisine to the database using POST requests.     
-
-- Fetch Operations [GET]:
-    - Retrieve all users, dishes, and cuisines via GET requests.
-    - Fetch a specific user, dish, or cuisine by its unique ID using GET requests.
-
-- Modification Operations [PUT] and [DELETE]:
-    - Update the information of a user, dish, or cuisine through PUT requests.
-    - Delete a user, dish, or cuisine from the database using DELETE requests.
+- RESTful API Integration: Seamless data manipulation and service management without the need for a frontend interface.
+- PostgreSQL Database: Reliable data storage and retrieval for users, dishes, and cuisines.
+- Comprehensive Backend Services: Support for inventory management, menu planning, order processing, and supplier coordination.
 
 ## Technologies Used
 
